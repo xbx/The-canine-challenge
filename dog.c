@@ -73,7 +73,7 @@ int main(int argc, char **argv){
     }
     
     /**
-     * Free all taked resources
+     * Free all resources
      */
     free(threadsIds);
     free(pipes);
